@@ -31,12 +31,10 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
+While navigating Android Studio for the first time, the biggest challenge would have had to be becoming familiarized with the history of the application. Overtime, Android Studio has had updates that has made certain codes, that once worked, completely obsolete now. Technology is constantly evolving and requires extensive research to keep up with. 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Ashlin Hall]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
